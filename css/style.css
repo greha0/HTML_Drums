@@ -1,0 +1,124 @@
+.titolo{
+
+    color: #F2E9E4;
+    font-size: 5dvh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2dvh;
+    border-bottom:1px solid #F2E9E4;
+    
+    
+}
+
+body{
+    background-image: radial-gradient(circle, #f2e9e4, #c3b0ae, #937a82, #5d4a5d, #22223b);
+    
+}
+
+.cont{
+    
+    margin: 0 auto;
+    margin-top: 1dvh;
+    width: 80%;
+    height: 80%;
+    border-bottom:1px solid #F2E9E4;
+    
+}
+
+.riga{
+    height: 33%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+#crash16{
+    background-image:url("../img/crash16.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:120%;
+    width: 25%;
+    
+    margin-top: 10%;
+}
+
+#crash14{
+    background-image:url("../img/crash14.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:120%;
+    width: 25%;
+    
+    margin-top: 20%;
+}
+
+#floor-tom{
+    background-image:url("../img/floor-tom.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:100%;
+    width: 25%;
+    
+}
+
+#hh{
+    background-image:url("../img/hh.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:110%;
+    width: 25%;
+    margin-top: 5%;
+   
+}
+
+#kick{
+    background-image:url("../img/kick.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:130%;
+    width: 30%;
+    
+}
+
+#ride{
+    background-image:url("../img/ride.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:120%;
+    width: 20%;
+    
+    margin-top: 20%;
+    margin-left: -10%;
+}
+
+#snare{
+    background-image:url("../img/snare.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 20%;
+ 
+}
+
+#tom1{
+    background-image:url("../img/tom1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80%;
+    margin-top: 10%;
+    width: 15%;
+  
+    
+}
+
+#tom2{
+    background-image:url("../img/tom2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80%;
+    width: 15%;
+
+    margin-right: 15%;
+    margin-top: 10%;
+}
